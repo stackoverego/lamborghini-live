@@ -1,5 +1,8 @@
-live on :(lamborghini-live)(https://lamborghini-live.vercel.app/)
+
 # 🚀 Frontend Project
+
+**Live Link:**  
+[View Lamborghini Website](https://lamborghini-live.vercel.app/) 
 
 This is a simple **frontend-only** project built using **HTML** and **CSS**.  
 Currently, it focuses on the **UI/UX part**, while backend functionality will be added in the future.  
