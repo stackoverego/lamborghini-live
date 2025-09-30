@@ -44,4 +44,4 @@ Currently, it focuses on the **UI/UX part**, while backend functionality will be
 ## ⚡ Getting Started
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   https://github.com/stackoverego/lamborghini-live.git
